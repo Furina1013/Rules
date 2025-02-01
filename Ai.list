@@ -1,0 +1,18 @@
+#Ai 服务，持续维护增加
+
+
+
+# OPENAI 
+DOMAIN-KEYWORD,chatgpt
+DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,cdn.oaistatic.com
+DOMAIN-SUFFIX,cdn.auth0.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,o33249.ingest.sentry.io
+DOMAIN-SUFFIX,datadoghq.com
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,livekit.cloud
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com

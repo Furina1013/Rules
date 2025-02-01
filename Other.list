@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,x.com
 
 
 # Miscellaneous - 未分类
+DOMAIN-KEYWORD,docker
 DOMAIN-KEYWORD,firefly
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,saucenao.com

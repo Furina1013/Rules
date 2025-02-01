@@ -1,0 +1,31 @@
+# 不满足创建独立文件条件的域名
+
+
+
+#  Github
+DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,atom.io
+DOMAIN-SUFFIX,dependabot.com
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,myoctocat.com
+DOMAIN-SUFFIX,npm.community
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,opensource.guide
+DOMAIN-SUFFIX,rawgit.com
+DOMAIN-SUFFIX,repo.new
+
+
+
+# X（Twitter）
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,x.com
+
+
+
+# Miscellaneous - 未分类
+DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,saucenao.com
+DOMAIN-SUFFIX,deepl.com

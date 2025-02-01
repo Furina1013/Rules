@@ -1,0 +1,19 @@
+# 📢【广告拦截规则】（广告、推广、弹窗）
+- DOMAIN-SUFFIX,ads-api.x.com,REJECT
+- DOMAIN-SUFFIX,ads-api.twitter.com,REJECT
+DOMAIN-KEYWORD,promo,REJECT
+
+
+
+# 🔍【分析与追踪拦截】（数据收集、隐私跟踪）
+DOMAIN-KEYWORD,analytics,REJECT
+DOMAIN-KEYWORD,googletagmanager,REJECT
+DOMAIN-KEYWORD,track,REJECT
+DOMAIN-KEYWORD,tracking,REJECT
+
+
+
+# 📦【CDN 与缓存】（防止部分站点缓存广告）
+DOMAIN-KEYWORD,dserverREJECT
+DOMAIN-SUFFIX,cdn.adserver.com,REJECT
+DOMAIN-SUFFIX,tracking-cdn.com,REJECT

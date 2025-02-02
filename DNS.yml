@@ -1,5 +1,5 @@
 # 上游DNS配置，防止转换时因模板无DNS服务器导致网页超时等意外情况发生
-# Last updated: 2 Feb 2025, 18:25:53
+# Last updated: 2 Feb 2025 22:54:15
 mixed-port: 7893
 allow-lan: true
 mode: rule

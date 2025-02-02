@@ -1,7 +1,8 @@
-#  Github Services
+# 为防止因网络波动导致无法访问Github的应急配置
+# Last updated: 2 Feb 2025, 18:27:10
 
 
-
+# Github Services - Github 服务
 DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,dependabot.com

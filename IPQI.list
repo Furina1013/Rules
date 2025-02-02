@@ -9,7 +9,7 @@ SRC-IP-CIDR,10.0.0.11/32
 
 # IP Details - IP详情
 DOMAIN-SUFFIX,ping0.cc
-DOMAIN-SUFFIXipapi.co
+DOMAIN-SUFFIX,ipapi.co
 DOMAIN-SUFFIX,ipdata.co
 DOMAIN-SUFFIX,ipregistry.co
 DOMAIN-SUFFIX,ipqualityscore.com

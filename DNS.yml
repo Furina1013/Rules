@@ -1,3 +1,4 @@
+# 上游DNS配置，防止网页超时等意外情况发生
 mixed-port: 7893
 allow-lan: true
 mode: rule

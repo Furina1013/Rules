@@ -1,7 +1,9 @@
-#Google 服务
+# 提供网页搜索，地图加载等
+# Last updated: 2 Feb 2025, 18:29:15
 
 
 
+# Google Services - Google 服务
 DOMAIN-KEYWORD,gstatic
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,appspot

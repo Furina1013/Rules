@@ -1,3 +1,7 @@
+# AdBlock Rules - 广告拦截规则
+# Last updated：2 Feb 2025 18:16:50
+
+
 # 📢【广告拦截规则】（广告、推广、弹窗）
 DOMAIN-SUFFIX,ads-api.x.com,REJECT
 DOMAIN-SUFFIX,ads-api.twitter.com,REJECT

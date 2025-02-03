@@ -1,5 +1,5 @@
 # 上游DNS配置，防止转换时因模板无DNS服务器导致网页超时等意外情况发生
-# Last updated: 3 Feb 2025 10:49:37
+# Last updated: 3 Feb 2025 2:01:27
 mixed-port: 7893
 allow-lan: true
 mode: rule
@@ -21,33 +21,33 @@ dns:
   fallback:
   - 127.0.0.1:1013
   nameserver-policy:
-    "+.pphimalayanrt.com": 223.5.5.5
+    +.pphimalayanrt.com: 223.5.5.5
     st.dl.eccdnx.com: 223.5.5.5
-    "+.tmall.com": 223.5.5.5
-    "+.taobao.com": 223.5.5.5
-    "+.alicdn.com": 223.5.5.5
-    "+.aliyun.com": 223.5.5.5
-    "+.alipay.com": 223.5.5.5
-    "+.alibaba.com": 223.5.5.5
-    "+.qq.com": 223.5.5.5
-    "+.tencent.com": 223.5.5.5
-    "+.weixin.com": 223.5.5.5
-    "+.qpic.cn": 223.5.5.5
-    "+.jd.com": 223.5.5.5
-    "+.bilibili.com": 223.5.5.5
-    "+.hdslb.com": 223.5.5.5
-    "+.163.com": 223.5.5.5
-    "+.126.com": 223.5.5.5
-    "+.126.net": 223.5.5.5
-    "+.127.net": 223.5.5.5
-    "+.netease.com": 223.5.5.5
-    "+.baidu.com": 223.5.5.5
-    "+.bdstatic.com": 223.5.5.5
-    "+.bilivideo.+": 223.5.5.5
-    "+.iqiyi.com": 223.5.5.5
-    "+.douyinvod.com": 180.184.1.1
-    "+.douyin.com": 180.184.1.1
-    "+.douyincdn.com": 180.184.1.1
-    "+.douyinpic.com": 180.184.1.1
-    "+.feishu.cn": 180.184.1.1
-    "+.i4store.net": 1.1.1.1
+    +.tmall.com: 223.5.5.5
+    +.taobao.com: 223.5.5.5
+    +.alicdn.com: 223.5.5.5
+    +.aliyun.com: 223.5.5.5
+    +.alipay.com: 223.5.5.5
+    +.alibaba.com: 223.5.5.5
+    +.qq.com: 223.5.5.5
+    +.tencent.com: 223.5.5.5
+    +.weixin.com: 223.5.5.5
+    +.qpic.cn: 223.5.5.5
+    +.jd.com: 223.5.5.5
+    +.bilibili.com: 223.5.5.5
+    +.hdslb.com: 223.5.5.5
+    +.163.com: 223.5.5.5
+    +.126.com: 223.5.5.5
+    +.126.net: 223.5.5.5
+    +.127.net: 223.5.5.5
+    +.netease.com: 223.5.5.5
+    +.baidu.com: 223.5.5.5
+    +.bdstatic.com: 223.5.5.5
+    +.bilivideo.+: 223.5.5.5
+    +.iqiyi.com: 223.5.5.5
+    +.douyinvod.com: 180.184.1.1
+    +.douyin.com: 180.184.1.1
+    +.douyincdn.com: 180.184.1.1
+    +.douyinpic.com: 180.184.1.1
+    +.feishu.cn: 180.184.1.1
+    +.i4store.net: 1.1.1.1

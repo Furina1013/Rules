@@ -1,5 +1,5 @@
 # 上游DNS配置，防止转换时因模板无DNS服务器导致网页超时等意外情况发生
-# Last updated: 3 Feb 2025 11:22:26
+# Last updated: 4 Feb 2025 20:38:25
 mixed-port: 7893
 allow-lan: true
 mode: rule
@@ -51,4 +51,3 @@ dns:
     +.douyinpic.com: 180.184.1.1
     +.feishu.cn: 180.184.1.1
     +.i4store.net: 1.1.1.1
-    one.one.one.one: 1.1.1.1

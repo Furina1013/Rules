@@ -18,5 +18,5 @@ DOMAIN-KEYWORD,tracking
 
 
 # 📦【CDN 与缓存】（防止部分站点缓存广告）
-DOMAIN-SUFFIX,cdn.adserver.com
+DOMAIN-SUFFIX,adserver.com
 DOMAIN-SUFFIX,tracking-cdn.com

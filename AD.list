@@ -1,5 +1,5 @@
 # AdBlock Rules - 广告拦截规则
-# Last updated: 4 Feb 2025 15:54:34
+# Last updated: 4 Feb 2025 19:07:00
 
 
 # 📢【广告拦截规则】（广告、推广、弹窗）
@@ -15,3 +15,9 @@ DOMAIN-KEYWORD,googletagmanager
 DOMAIN-KEYWORD,track
 DOMAIN-KEYWORD,tracking
 DOMAIN-KEYWORD,adserver
+
+
+
+# Other - 其它
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,seeyoufarm.com

@@ -1,0 +1,18 @@
+# Domain Name System
+# Last updated: 4 Feb 2025 14:07:30
+
+
+
+# Quad9
+DOMAIN,dns.quad9.net
+DOMAIN,dns9.quad9.net
+DOMAIN,9.9.9.9,no-resolve
+#DOMAIN,149.112.112.112,no-resolve
+
+# Cloudflare
+DOMAIN,dns.cloudflare.com
+DOMAIN,cloudflare-dns.com
+
+# Google
+DOMAIN,dns.google
+DOAMAIN,dns64.dns.google

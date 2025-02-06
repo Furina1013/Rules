@@ -1,5 +1,5 @@
 # Google Services
-# Last updated: 6 Feb 2025 21:37:37
+# Last updated: 6 Feb 2025 23:32:50
 
 
 # Google
@@ -214,6 +214,7 @@ DOMAIN-SUFFIX,gsuite.com
 DOMAIN-SUFFIX,gv.com
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,gvt5.com
 DOMAIN-SUFFIX,gvt6.com
 DOMAIN-SUFFIX,gvt7.com

@@ -1,5 +1,5 @@
 # AdBlock Rules
-# Last updated: 6 Feb 2025 23:312:00
+# Last updated: 7 Feb 2025 1:42:35
 
 
 
@@ -24,6 +24,7 @@ DOMAIN-KEYWORD,ads
 DOMAIN-KEYWORD,adtrafficquality
 DOMAIN-KEYWORD,googleads
 DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,admeld.com
 DOMAIN-SUFFIX,admob-cn.com
 DOMAIN-SUFFIX,admob.com

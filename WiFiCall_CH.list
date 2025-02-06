@@ -1,4 +1,11 @@
 # CH
-# Last updated: 6 Feb 2025 12:21:10
+# Last updated: 7 Feb 2025 02:06:30
 
+
+
+# CH WiFiCall
 DOMAIN-SUFFIX,mnc001.mcc228.pub.3gppnetwork.org
+IP-CIDR,138.188.106.251/32,no-resolve
+IP-CIDR,138.188.106.252/32,no-resolve
+IP-CIDR,138.188.106.253/32,no-resolve
+IP-CIDR,138.188.106.254/32,no-resolve

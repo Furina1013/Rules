@@ -1,5 +1,5 @@
 # Domain Name System
-# Last updated: 7 Feb 2025 03:34:27
+# Last updated: 7 Feb 2025 03:36:00
 
 
 
@@ -17,3 +17,5 @@ IP-CIDR,1.0.0.1/32,no-resolve
 # Google
 DOMAIN,dns.google
 DOAMAIN,dns64.dns.google
+IP-CIDR,8.8.8.8/32,no-resolve
+IP-CIDR,8.8.4.4/32,no-resolve

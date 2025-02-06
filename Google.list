@@ -1,11 +1,11 @@
 # Google Services - Google 服务
-# Last updated: 4 Feb 2025 03:04:12
-
+# Last updated: 4 Feb 2025 20:14:00
 
 
 # Google
 DOMAIN-KEYWORD,gstatic
 DOMAIN-KEYWORD,google
+IP-ASN,15169,no-resolve
 DOMAIN-KEYWORD,appspot
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,gmail

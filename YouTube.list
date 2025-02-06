@@ -7,6 +7,11 @@
 USER-AGENT,*youtube*
 USER-AGENT,YouTube*
 USER-AGENT,com.google.ios.youtube*
+USER-AGENT,*YouTubeMusic*
+USER-AGENT,*com.google.ios.youtubemusic*
+USER-AGENT,com.google.ios.youtubemusic*
+USER-AGENT,com.google.ios.youtube*
+USER-AGENT,YouTubeMusic*
 DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN,yt3.ggpht.com

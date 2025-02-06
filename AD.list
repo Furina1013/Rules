@@ -1,5 +1,6 @@
 # AdBlock Rules
-# Last updated: 6 Feb 2025 23:23:10
+# Last updated: 6 Feb 2025 23:25:00
+
 
 
 # 📢【广告拦截规则】（广告、推广、弹窗）
@@ -15,6 +16,7 @@ DOMAIN-KEYWORD,googletagmanager
 DOMAIN-KEYWORD,track
 DOMAIN-KEYWORD,tracking
 DOMAIN-KEYWORD,adserver
+DOMAIN-KEYWORD,ads
 
 
 

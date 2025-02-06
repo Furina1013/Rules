@@ -1,5 +1,5 @@
 # AdBlock Rules 广告拦截规则
-# Last updated: 5 Feb 2025 01:46:30
+# Last updated: 6 Feb 2025 21:27:00
 
 
 # 📢【广告拦截规则】（广告、推广、弹窗）
@@ -19,6 +19,19 @@ DOMAIN-KEYWORD,adserver
 
 
 # ----- Other - 其它 -----
+DOMAIN-SUFFIX,admeld.com
+DOMAIN-SUFFIX,admob-cn.com
+DOMAIN-SUFFIX,admob.com
+DOMAIN-SUFFIX,adsense.com
+DOMAIN-SUFFIX,adsensecustomsearchads.com
+DOMAIN-SUFFIX,adsenseformobileapps.com
+DOMAIN-SUFFIX,advertisercommunity.com
+DOMAIN-SUFFIX,advertiserscommunity.com
+DOMAIN-SUFFIX,adwords-community.com
+DOMAIN-SUFFIX,adwords.com
+DOMAIN-SUFFIX,adwordsexpress.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,jacobeshort.pro
 DOMAIN-SUFFIX,jamdomn.pro
 DOMAIN-SUFFIX,jamestop.xyz
@@ -31,16 +44,5 @@ DOMAIN-SUFFIX,undedsunbese.site
 DOMAIN-SUFFIX,underwards.site
 DOMAIN-SUFFIX,unfairliam.club
 DOMAIN-SUFFIX,unformaticy.club
-DOMAIN-SUFFIX,uniformery.club
-DOMAIN-SUFFIX,unkingdiabeth.club
-DOMAIN-SUFFIX,unknowlejir.club
-DOMAIN-SUFFIX,unlimitate.club
-DOMAIN-SUFFIX,unlomblam.pro
-DOMAIN-SUFFIX,unmortalloose.com
-DOMAIN-SUFFIX,unreshiramor.com
-DOMAIN-SUFFIX,untabilityde.site
-DOMAIN-SUFFIX,untpresearch.club
-DOMAIN-SUFFIX,untridrisa.cf
-DOMAIN-SUFFIX,uontent.powvideo.net
 DOMAIN-SUFFIX,uoredi.com
 DOMAIN-SUFFIX,upcum.com

@@ -1,17 +1,18 @@
 # Domain Name System
-# Last updated: 4 Feb 2025 14:09:55
+# Last updated: 7 Feb 2025 03:34:27
 
 
 
 # Quad9
 DOMAIN,dns.quad9.net
-DOMAIN,dns9.quad9.net
 IP-CIDR,9.9.9.9/32,no-resolve
-#IP-CIDR,149.112.112.112/32,no-resolve
+IP-CIDR,149.112.112.112/32,no-resolve
 
 # Cloudflare
 DOMAIN,dns.cloudflare.com
 DOMAIN,cloudflare-dns.com
+IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,1.0.0.1/32,no-resolve
 
 # Google
 DOMAIN,dns.google

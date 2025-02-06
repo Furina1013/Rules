@@ -14,7 +14,7 @@ USER-AGENT,com.google.ios.youtube*
 USER-AGENT,YouTubeMusic*
 DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,googlevideo.com
-DOMAIN,yt3.ggpht.com
+DOMAIN-SUFFIX,yt3.ggpht.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com

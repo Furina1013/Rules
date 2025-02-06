@@ -1,4 +1,4 @@
-# 上游DNS配置，防止转换时因模板无DNS服务器导致网页超时等意外情况发生
+# Upstream DNS settings to avoid timeouts from missing DNS servers
 # Last updated: 4 Feb 2025 20:38:25
 mixed-port: 7893
 allow-lan: true

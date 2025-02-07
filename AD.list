@@ -1,5 +1,5 @@
 # AdBlock Rules
-# Last updated: 7 Feb 2025 17:48:40
+# Last updated: 8 Feb 2025 01:41:55
 
 
 
@@ -17,6 +17,7 @@ DOMAIN-KEYWORD,track
 DOMAIN-KEYWORD,tracking
 DOMAIN-KEYWORD,adserver
 DOMAIN-KEYWORD,ads
+DOMAIN-KEYWORD,googlesyndication
 DOMAIN-SUFFIX,bat.bing.com
 
 

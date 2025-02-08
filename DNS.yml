@@ -1,5 +1,5 @@
 # Upstream DNS settings to avoid timeouts from missing DNS servers
-# Last updated: 4 Feb 2025 20:38:25
+# Last updated: 9 Feb 2025 03:02:10
 mixed-port: 7893
 allow-lan: true
 mode: rule
@@ -51,3 +51,4 @@ dns:
     +.douyinpic.com: 180.184.1.1
     +.feishu.cn: 180.184.1.1
     +.i4store.net: 1.1.1.1
+    +.nvidia.+: 1.1.1.1

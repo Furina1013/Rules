@@ -1,14 +1,6 @@
 # Domains ineligible for independent file creation
-# Lats updated: 6 Feb 2025 14:05:00
+# Lats updated: 8 Feb 2025 18:47:40
 
-
-
-
-# X（Twitter）
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,x.com
-DOMAIN-SUFFIX,t.co
 
 
 # Miscellaneous - 未分类

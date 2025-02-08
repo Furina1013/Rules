@@ -1,5 +1,5 @@
 # AdBlock Rules
-# Last updated: 8 Feb 2025 16:49:55
+# Last updated: 8 Feb 2025 17:35:00
 
 
 
@@ -39,10 +39,15 @@ DOMAIN-SUFFIX,adwordsexpress.com
 
 
 # HoYoverse
-DOMAIN-KEYWORD,log-upload
-DOMAIN-KEYWORD,upload-os
+DOMAIN-SUFFIX,ad-log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX,apm-log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX,hkrpg-log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX,hkrpg-log-upload.mihoyo.com
+DOMAIN-SUFFIX,log-upload-os.hoyolab.com
+DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,overseauspider.yuanshen.com
 DOMAIN-SUFFIX,sentry.eks.hoyoverse.com
+DOMAIN-SUFFIX,ys-log-upload-os.hoyoverse.com
 
 
 

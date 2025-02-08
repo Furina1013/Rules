@@ -1,28 +1,46 @@
 # AdBlock Rules
-# Last updated: 8 Feb 2025 01:41:55
+# Last updated: 8 Feb 2025 16:20:00
 
 
 
-# 📢【广告拦截规则】（广告、推广、弹窗）
-DOMAIN-SUFFIX,ads-api.x.com
-DOMAIN-SUFFIX,ads-api.twitter.com
+# AD
+DOMAIN-KEYWORD,adserver
+DOMAIN-KEYWORD,ads
 DOMAIN-KEYWORD,promo
 
 
 
-# 🔍【分析与追踪拦截】（数据收集、隐私跟踪）
+# Track
 DOMAIN-KEYWORD,analytics
 DOMAIN-KEYWORD,googletagmanager
 DOMAIN-KEYWORD,track
 DOMAIN-KEYWORD,tracking
-DOMAIN-KEYWORD,adserver
-DOMAIN-KEYWORD,ads
 DOMAIN-KEYWORD,googlesyndication
-DOMAIN-SUFFIX,bat.bing.com
 
 
 
-# ----- Other - 其它 -----
+# HoYoverse
+DOMAIN-KEYWORD,upload-os
+DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
+DOMAIN-SUFFIX,overseauspider.yuanshen.com
+DOMAIN-SUFFIX,sg-public-data-api.hoyoverse.com
+DOMAIN-SUFFIX,sentry.eks.hoyoverse.com
+
+
+
+# ZIJIE
+DOMAIN-KEYWORD,minigame5-normal-hl
+DOMAIN-SUFFIX,applog.zijieapi.com
+DOMAIN-SUFFIX,feedback-c.zijieapi.com
+DOMAIN-SUFFIX,mcs.zijieapi.com
+DOMAIN-SUFFIX,mon.zijieapi.com
+DOMAIN-SUFFIX,starkgame.zijieapi.com
+DOMAIN-SUFFIX,vcs.zijieapi.com
+DOMAIN-SUFFIX,view.zijieapi.com
+
+
+
+# Other
 DOMAIN-KEYWORD,adtrafficquality
 DOMAIN-KEYWORD,googleads
 DOMAIN-SUFFIX,gvt2.com
@@ -38,6 +56,8 @@ DOMAIN-SUFFIX,advertiserscommunity.com
 DOMAIN-SUFFIX,adwords-community.com
 DOMAIN-SUFFIX,adwords.com
 DOMAIN-SUFFIX,adwordsexpress.com
+DOMAIN-SUFFIX,bat.bing.com
+DOMAIN-SUFFIX,api.miwifi.com
 DOMAIN-SUFFIX,jacobeshort.pro
 DOMAIN-SUFFIX,jamdomn.pro
 DOMAIN-SUFFIX,jamestop.xyz

@@ -1,0 +1,19 @@
+# AI services, continuously maintained and expanded
+# Last updated: 6 Feb 2025 17:06:10
+
+
+
+# OPENAI 
+DOMAIN-KEYWORD,chatgpt
+DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,cdn.oaistatic.com
+DOMAIN-SUFFIX,cdn.auth0.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,o33249.ingest.sentry.io
+DOMAIN-SUFFIX,datadoghq.com
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,livekit.cloud
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com

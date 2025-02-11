@@ -1,0 +1,13 @@
+# Domains ineligible for independent file creation
+# Lats updated: 8 Feb 2025 19:48:30
+
+
+
+# Miscellaneous
+DOMAIN-KEYWORD,docker
+DOMAIN-KEYWORD,firefly
+DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,saucenao.com
+DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,mega.nz
+DOMAIN-SUFFIX,mega.co.nz

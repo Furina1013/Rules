@@ -1,5 +1,5 @@
 # IPQD - IP Quality & Details
-# Last update: 7 Feb 2025 19:02:50
+# Last update: 11 Feb 2025 16:45:20
 
 
 
@@ -23,3 +23,10 @@ DOMAIN-SUFFIX,ip-score.com
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ipwhois.io
 DOMAIN-SUFFIX,tool.lu
+
+
+
+# DNS Leak
+DOMAIN-SUFFIX,browserleaks.org
+DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,ipleak.net

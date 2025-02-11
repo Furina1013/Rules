@@ -1,0 +1,9 @@
+# Adobe Firefly Services
+# Last updated: 8 Feb 2025 18:47:00
+
+
+
+# Adobe Firefly
+  - DOMAIN-KEYWORD,pre-signed-firefly-prod
+  - DOMAIN-SUFFIX,firefly-clio-imaging.adobe.io
+  - DOMAIN-SUFFIX,firefly.adobe.io

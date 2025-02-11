@@ -1,9 +1,0 @@
-# NZ
-# Last updated: 11 Feb 2025 20:32:50
-
-
-
-# NZ WiFiCall
-DOMAIN-SUFFIX,mcc530.pub.3gppnetwork.org
-IP-CIDR,203.96.213.192/32,no-resolve
-IP-CIDR,203.96.213.193/32,no-resolve

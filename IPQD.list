@@ -27,6 +27,6 @@ DOMAIN-SUFFIX,tool.lu
 
 
 # DNS Leak
-DOMAIN-SUFFIX,browserleaks.org
 DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,browserleaks.org
 DOMAIN-SUFFIX,ipleak.net

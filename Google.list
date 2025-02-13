@@ -1,45 +1,8 @@
 # Google Services
-# Last updated: 7 Feb 2025 01:42:57
+# Last updated: 14 Feb 2025 01:53:40
 
 
 # Google
-IP-ASN,AS6432,no-resolve
-IP-ASN,AS13949,no-resolve
-IP-ASN,AS15169,no-resolve
-IP-ASN,AS16550,no-resolve
-IP-ASN,AS16591,no-resolve
-IP-ASN,AS19425,no-resolve
-IP-ASN,AS19448,no-resolve
-IP-ASN,AS55023,no-resolve
-IP-ASN,AS45566,no-resolve
-IP-ASN,AS43515,no-resolve
-IP-ASN,AS41264,no-resolve
-IP-ASN,AS40873,no-resolve
-IP-ASN,AS36987,no-resolve
-IP-ASN,AS36561,no-resolve
-IP-ASN,AS36520,no-resolve
-IP-ASN,AS36492,no-resolve
-IP-ASN,AS36411,no-resolve
-IP-ASN,AS36385,no-resolve
-IP-ASN,AS36384,no-resolve
-IP-ASN,AS36383,no-resolve
-IP-ASN,AS36040,no-resolve
-IP-ASN,AS36039,no-resolve
-IP-ASN,AS32381,no-resolve
-IP-ASN,AS26910,no-resolve
-IP-ASN,AS26684,no-resolve
-IP-ASN,AS22859,no-resolve
-IP-ASN,AS22577,no-resolve
-IP-ASN,AS19527,no-resolve
-IP-ASN,AS139190,no-resolve
-IP-ASN,AS214611,no-resolve
-IP-ASN,AS214609,no-resolve
-IP-ASN,AS139070,no-resolve
-IP-ASN,AS396982,no-resolve
-IP-ASN,AS395973,no-resolve
-IP-ASN,AS394639,no-resolve
-IP-ASN,AS394507,no-resolve
-IP-ASN,AS394089,no-resolve
 DOMAIN-KEYWORD,gstatic
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,appspot
@@ -398,3 +361,40 @@ DOMAIN-SUFFIX,zukunftswerkstatt.de
 DOMAIN-SUFFIX,zynamics.com
 PROCESS-NAME,com.android.vending
 PROCESS-NAME,BackupandSync
+IP-ASN,AS6432,no-resolve
+IP-ASN,AS13949,no-resolve
+IP-ASN,AS15169,no-resolve
+IP-ASN,AS16550,no-resolve
+IP-ASN,AS16591,no-resolve
+IP-ASN,AS19425,no-resolve
+IP-ASN,AS19448,no-resolve
+IP-ASN,AS55023,no-resolve
+IP-ASN,AS45566,no-resolve
+IP-ASN,AS43515,no-resolve
+IP-ASN,AS41264,no-resolve
+IP-ASN,AS40873,no-resolve
+IP-ASN,AS36987,no-resolve
+IP-ASN,AS36561,no-resolve
+IP-ASN,AS36520,no-resolve
+IP-ASN,AS36492,no-resolve
+IP-ASN,AS36411,no-resolve
+IP-ASN,AS36385,no-resolve
+IP-ASN,AS36384,no-resolve
+IP-ASN,AS36383,no-resolve
+IP-ASN,AS36040,no-resolve
+IP-ASN,AS36039,no-resolve
+IP-ASN,AS32381,no-resolve
+IP-ASN,AS26910,no-resolve
+IP-ASN,AS26684,no-resolve
+IP-ASN,AS22859,no-resolve
+IP-ASN,AS22577,no-resolve
+IP-ASN,AS19527,no-resolve
+IP-ASN,AS139190,no-resolve
+IP-ASN,AS214611,no-resolve
+IP-ASN,AS214609,no-resolve
+IP-ASN,AS139070,no-resolve
+IP-ASN,AS396982,no-resolve
+IP-ASN,AS395973,no-resolve
+IP-ASN,AS394639,no-resolve
+IP-ASN,AS394507,no-resolve
+IP-ASN,AS394089,no-resolve

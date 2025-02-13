@@ -1,5 +1,5 @@
 # Upstream DNS settings to avoid timeouts from missing DNS servers
-# Last updated: 14 Feb 2025 02:59:10
+# Last updated: 14 Feb 2025 03:00:00
 mixed-port: 7893
 allow-lan: true
 mode: rule
@@ -48,17 +48,13 @@ dns:
     +.amemv.+: 180.184.1.1
     +.awemeugwave.com: 180.184.1.1
     +.awemeughun.com: 180.184.1.1
-    +.idouyinliving.com: 180.184.1.1
     +.douyinliving.com: 180.184.1.1
-    +.idouyinvod.com: 180.184.1.1
     +.douyinvod.com: 180.184.1.1
     +.boxdouyin.com: 180.184.1.1
     +.douyin.com: 180.184.1.1
     +.douyinact.+: 180.184.1.1
     +.douyincdn.com: 180.184.1.1
-    +.idouyinpic.com: 180.184.1.1
     +.douyinpic.com: 180.184.1.1
-    +.iesdouyin.com: 180.184.1.1
     +.huoshanvideo.cn: 180.184.1.1
     +.huoshanxiaoshipin.cn: 180.184.1.1
     +.huoshanvideo.net: 180.184.1.1
@@ -67,6 +63,10 @@ dns:
     +.huoshanxiaoshipin.net: 180.184.1.1
     +.huoshanlive.com: 180.184.1.1
     +.huoshan.com: 180.184.1.1
+    +.idouyinliving.com: 180.184.1.1
+    +.idouyinvod.com: 180.184.1.1
+    +.idouyinpic.com: 180.184.1.1
+    +.iesdouyin.com: 180.184.1.1
     +.ihuoshanimg.com: 180.184.1.1
     +.idouyinstatic.com: 180.184.1.1
     +.ihuoshanlive.com: 180.184.1.1

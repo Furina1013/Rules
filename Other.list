@@ -1,10 +1,11 @@
 # Domains ineligible for independent file creation
-# Lats updated: 13 Feb 2025 23:48:55
+# Lats updated: 13 Feb 2025 23:57:57
 
 
 
 # Miscellaneous
-DOMAIN-KEYWORD,docker
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,saucenao.com
 DOMAIN-SUFFIX,deepl.com

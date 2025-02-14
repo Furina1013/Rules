@@ -1,5 +1,6 @@
 # Upstream DNS settings to avoid timeouts from missing DNS servers
-# Last updated: 14 Feb 2025 03:01:00
+# Last updated: 15 Feb 2025 01:50:00
+
 mixed-port: 7893
 allow-lan: true
 mode: rule
@@ -71,5 +72,8 @@ dns:
     +.iesdouyin.com: 180.184.1.1
     +.ihuoshanimg.com: 180.184.1.1
     +.ihuoshanlive.com: 180.184.1.1
+    +.ixigua.com: 180.184.1.1
+    +.ixiguavideo.com: 180.184.1.1
+    +.pstatp.com: 180.184.1.1
     +.feishu.cn: 180.184.1.1
     +.i4store.net: 1.1.1.1

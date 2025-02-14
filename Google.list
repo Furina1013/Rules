@@ -1,5 +1,5 @@
 # Google Services
-# Last updated: 14 Feb 2025 01:53:40
+# Last updated: 15 Feb 2025 02:02:30
 
 
 # Google
@@ -12,6 +12,7 @@ DOMAIN-KEYWORD,recaptcha
 DOMAIN-KEYWORD,blogspot
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN,voice.telephony.goog
+DOMAIN-SUFFIX,translate.goog
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,1ucrs.com

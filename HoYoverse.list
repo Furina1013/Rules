@@ -1,9 +1,10 @@
 # HoYoverse Game Services
-# Last updated: 8 Feb 2025 17:26:00
+# Last updated: 15 Feb 2025 00:16:33
 
 
 
 # HoYoverse
+DOMAIN-SUFFIX,hoyo.link
 DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,yuanshen.com
 DOMAIN-SUFFIX,hoyoverse.com

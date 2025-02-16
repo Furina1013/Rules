@@ -1,10 +1,14 @@
 # Cloudflare Services
-# Last updated: 16 Feb 2025 21:00:00
+# Last updated: 16 Feb 2025 21:13:30
 
 
 
 # Cloudflare
-DOMAIN,cloudflare
+DOMAIN-SUFFIX,cloudflareresolve.com
+DOMAIN-SUFFIX,cloudflareclient.com
+DOMAIN-SUFFIX,cloudflareok.com
+DOMAIN-SUFFIX,cloudflareportal.com
+DOMAIN-SUFFIX,cloudflare.com
 IP-ASN,13335,no-resolve
 IP-ASN,14789,no-resolve
 IP-ASN,132892,no-resolve

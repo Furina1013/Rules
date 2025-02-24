@@ -1,9 +1,8 @@
 # Domains ineligible for independent file creation
-# Lats updated: 21 Feb 2025 04:18:05
+# Lats updated: 25 Feb 2025 00:52:50
 
-
-
-# Miscellaneous
+payload:
+  # Miscellaneous
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,workers.dev

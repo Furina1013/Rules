@@ -1,9 +1,8 @@
 # 𝕏 Services
-# Last updated: 21 Feb 2025 04:23:57
+# Last updated: 25 Feb 2025 00:57:27
 
-
-
-# 𝕏 (Twitter)
+payload:
+  # 𝕏 (Twitter)
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,twimg
   - DOMAIN-SUFFIX,twitter.com

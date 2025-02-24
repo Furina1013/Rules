@@ -1,9 +1,8 @@
 # Pixiv Services
-# Last updated: 21 Feb 2025 04:18:25
+# Last updated: 25 Feb 2025 00:53:27
 
-
-
-# Pixiv
+payload:
+  # Pixiv
   - DOMAIN-SUFFIX,pixiv.net
   - DOMAIN-SUFFIX,pixivsketch.net
   - DOMAIN-SUFFIX,pximg.net

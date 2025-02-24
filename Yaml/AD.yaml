@@ -1,5 +1,7 @@
 # AdBlock Rules
-# Last updated: 25 Feb 2025 00:42:55
+# Last updated: 25 Feb 2025 00:43:30
+
+
 payload:
   # AD
   - DOMAIN-KEYWORD,adserv

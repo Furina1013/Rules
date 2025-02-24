@@ -1,7 +1,6 @@
 # Apple Services
-# Last updated: 21 Feb 2025 04:14:37
+# Last updated: 25 Feb 2025 00:46:50
 
-
-
-# Apple
+payload:
+  # Apple
   - DOMAIN,gspe1-ssl.ls.apple.com

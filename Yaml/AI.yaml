@@ -1,9 +1,9 @@
 # AI services, continuously maintained and expanded
-# Last updated: 21 Feb 2025 04:13:55
+# Last updated: 25 Feb 2025 00:44:00
 
 
-
-# OPENAI 
+payload:
+  # OPENAI 
   - DOMAIN-KEYWORD,chatgpt
   - DOMAIN-KEYWORD,openai
   - DOMAIN-SUFFIX,cdn.oaistatic.com

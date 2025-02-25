@@ -1,5 +1,8 @@
 # IPQD - IP Quality & Details
-# Last update: 25 Feb 2025 00:50:50
+# Last update: 25 Feb 2025 13:26:17
+# DOMAIN-SUFFIX: 18
+# SRC-IP-CIDR: 1
+# TOTAL: 19
 
 payload:
   # IP Quality Assessment

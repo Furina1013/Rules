@@ -1,5 +1,5 @@
 # Upstream DNS settings to avoid timeouts from missing DNS servers
-# Last updated: 21 Feb 2025 04:15:15
+# Last updated: 25 Feb 2025 13:43:23
 
 mixed-port: 7893
 allow-lan: true

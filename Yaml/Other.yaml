@@ -1,9 +1,22 @@
 # Domains ineligible for independent file creation
-# Lats updated: 25 Feb 2025 13:29:25
-# DOMAIN-SUFFIX: 9
-# TOTAL: 9
+# Lats updated: 25 Feb 2025 13:53:33
+# DOMAIN-SUFFIX: 21
+# TOTAL: 21
 
 payload:
+  # Wikipedia
+  - DOMAIN-SUFFIX,mediawiki.org
+  - DOMAIN-SUFFIX,wikibooks.org
+  - DOMAIN-SUFFIX,wikidata.org
+  - DOMAIN-SUFFIX,wikileaks.org
+  - DOMAIN-SUFFIX,wikimedia.org
+  - DOMAIN-SUFFIX,wikinews.org
+  - DOMAIN-SUFFIX,wikipedia.org
+  - DOMAIN-SUFFIX,wikiquote.org
+  - DOMAIN-SUFFIX,wikisource.org
+  - DOMAIN-SUFFIX,wikiversity.org
+  - DOMAIN-SUFFIX,wikivoyage.org
+  - DOMAIN-SUFFIX,wiktionary.org
   # Miscellaneous
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,docker.com

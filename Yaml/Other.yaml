@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,wikiversity.org
   - DOMAIN-SUFFIX,wikivoyage.org
   - DOMAIN-SUFFIX,wiktionary.org
+  
   # Miscellaneous
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,docker.com

@@ -1,0 +1,10 @@
+# Cloudflare Services
+# Last updated: 21 Feb 2025 04:15:00
+
+
+
+# Cloudflare
+IP-CIDR,162.159.128.0/17,no-resolve
+DOMAIN-SUFFIX,cloudflareportal.com
+DOMAIN-SUFFIX,cloudflareclient.com
+DOMAIN-SUFFIX,cloudflare-gateway.com

@@ -1,0 +1,12 @@
+# Pixiv Services
+# Last updated: 21 Feb 2025 04:18:25
+
+
+
+# Pixiv
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,pixivsketch.net
+DOMAIN-SUFFIX,pximg.net
+DOMAIN-SUFFIX,fanbox.cc
+DOMAIN-SUFFIX,pixiv.org
+DOMAIN-KEYWORD,pixiv

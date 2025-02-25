@@ -1,7 +1,21 @@
 # Domains ineligible for independent file creation
-# Lats updated: 25 Feb 2025 13:46:25
+# Lats updated: 25 Feb 2025 13:55:00
 
 
+
+# Wikipedia
+DOMAIN-SUFFIX,mediawiki.org
+DOMAIN-SUFFIX,wikibooks.org
+DOMAIN-SUFFIX,wikidata.org
+DOMAIN-SUFFIX,wikileaks.org
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikinews.org
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikiquote.org
+DOMAIN-SUFFIX,wikisource.org
+DOMAIN-SUFFIX,wikiversity.org
+DOMAIN-SUFFIX,wikivoyage.org
+DOMAIN-SUFFIX,wiktionary.org
 
 # Miscellaneous
 DOMAIN-SUFFIX,docker.io

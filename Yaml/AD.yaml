@@ -1,5 +1,8 @@
 # AdBlock Rules
-# Last updated: 25 Feb 2025 00:46:12
+# Last updated: 25 Feb 2025 13:10:55
+# DOMAIN-KEYWORD: 15
+# DOMAIN-SUFFIX: 72
+# TOTAL: 87
 
 payload:
   # AD

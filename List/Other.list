@@ -1,5 +1,5 @@
 # Domains ineligible for independent file creation
-# Lats updated: 25 Feb 2025 13:55:00
+# Lats updated: 27 Feb 2025 02:51:00
 
 
 
@@ -27,3 +27,5 @@ DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,greasyfork.org
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,nodeseek.com

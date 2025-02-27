@@ -1,5 +1,5 @@
 # Domains ineligible for independent file creation
-# Lats updated: 27 Feb 2025 02:51:00
+# Lats updated: 29 Feb 2025 06:34:55
 
 
 
@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,saucenao.com
 DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,mega.nz
+DOMAIN-SUFFIX,mega.io
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,greasyfork.org

@@ -37,7 +37,7 @@ payload:
   - DOMAIN-SUFFIX,adwords-community.com
   - DOMAIN-SUFFIX,adwords.com
   - DOMAIN-SUFFIX,adwordsexpress.com
-  - firebaselogging.googleapis.com
+  - DOMAIN-SUFFIX,firebaselogging.googleapis.com
 
 
 

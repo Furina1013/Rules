@@ -1,7 +1,7 @@
 # Domains ineligible for independent file creation
-# Lats updated: 27 Feb 2025 02:51:07
-# DOMAIN-SUFFIX: 21
-# TOTAL: 21
+# Lats updated: 28 Feb 2025 06:34:30
+# DOMAIN-SUFFIX: 22
+# TOTAL: 22
 
 payload:
   # Wikipedia
@@ -25,6 +25,7 @@ payload:
   - DOMAIN-SUFFIX,saucenao.com
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,mega.nz
+  - DOMAIN-SUFFIX,mega.io
   - DOMAIN-SUFFIX,mega.co.nz
   - DOMAIN-SUFFIX,archive.org
   - DOMAIN-SUFFIX,greasyfork.org

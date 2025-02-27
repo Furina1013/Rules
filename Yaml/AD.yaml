@@ -1,8 +1,8 @@
 # AdBlock Rules
-# Last updated: 25 Feb 2025 13:10:55
+# Last updated: 28 Feb 2025 04:29:10
 # DOMAIN-KEYWORD: 15
-# DOMAIN-SUFFIX: 72
-# TOTAL: 87
+# DOMAIN-SUFFIX: 73
+# TOTAL: 88
 
 payload:
   # AD
@@ -37,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,adwords-community.com
   - DOMAIN-SUFFIX,adwords.com
   - DOMAIN-SUFFIX,adwordsexpress.com
+  - firebaselogging.googleapis.com
 
 
 

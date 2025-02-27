@@ -1,5 +1,5 @@
 # AdBlock Rules
-# Last updated: 25 Feb 2025 13:41:57
+# Last updated: 28 Feb 2025 06:26:50
 
 
 # AD
@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,advertiserscommunity.com
 DOMAIN-SUFFIX,adwords-community.com
 DOMAIN-SUFFIX,adwords.com
 DOMAIN-SUFFIX,adwordsexpress.com
+DOMAIN-SUFFIX,firebaselogging.googleapis.com
 
 
 

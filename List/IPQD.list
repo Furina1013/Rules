@@ -1,5 +1,5 @@
 # IPQD - IP Quality & Details
-# Last update: 28 Feb 2025 17:33:33
+# Last update: 28 Feb 2025 17:39:39
 
 
 
@@ -10,8 +10,11 @@ SRC-IP-CIDR,10.0.0.11/32
 
 # IP Details
 DOMAIN-SUFFIX,ping0.cc
-DOMAIN-SUFFIX,ipapi.co
 DOMAIN-SUFFIX,ipdata.co
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,ipwhois.io
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,ipapi.co
 DOMAIN-SUFFIX,ipregistry.co
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipqualityscore.com
@@ -19,11 +22,7 @@ DOMAIN-SUFFIX,ip2location.com
 DOMAIN-SUFFIX,bgp.he.net
 DOMAIN-SUFFIX,db-ip.com
 DOMAIN-SUFFIX,scamalytics.com
-DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,ip-score.com
-DOMAIN-SUFFIX,ipinfo.io
-DOMAIN-SUFFIX,ipwhois.io
-DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,tool.lu
 
 

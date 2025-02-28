@@ -1,5 +1,5 @@
 # IPQD - IP Quality & Details
-# Last update: 28 Feb 2025 16:55:55
+# Last update: 28 Feb 2025 17:32:32
 # DOMAIN-SUFFIX: 19
 # SRC-IP-CIDR: 1
 # TOTAL: 20
@@ -31,6 +31,7 @@ payload:
 
   # DNS Leak
   - DOMAIN-SUFFIX,browserleaks.org
+  - DOMAIN-SUFFIX,browserleaks.net
   - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,ipleak.net
   - DOMAIN-SUFFIX,whoer.net

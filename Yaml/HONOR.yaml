@@ -1,8 +1,0 @@
-# HONOR 30 Lite
-# Last updated: 7 FMar 2025 20:57:37
-# SRC-IP-CIDR: 2
-# TOTAL: 2
-
-payload:
-  - SRC-IP-CIDR,10.0.0.81/32
-  - SRC-IP-CIDR,10.0.0.131/32

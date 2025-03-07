@@ -95,6 +95,7 @@ payload:
 
 
   # Other
+  - DOMAIN-SUFFIX,edrgdgrfdfgdfgdfdfgdfgdfg.com
   - DOMAIN-SUFFIX,api.miwifi.com
   - DOMAIN-SUFFIX,ads-api.x.com
   - DOMAIN-SUFFIX,ads-api.twitter.com

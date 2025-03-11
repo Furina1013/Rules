@@ -1,0 +1,21 @@
+# AI services, continuously maintained and expanded
+# Last updated: 25 Feb 2025 13:15:00
+# DOMAIN-KEYWORD: 2
+# DOMAIN-SUFFIX: 11
+# TOTAL: 13
+
+payload:
+  # OPENAI 
+  - DOMAIN-SUFFIX,cdn.oaistatic.com
+  - DOMAIN-SUFFIX,cdn.auth0.com
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,challenges.cloudflare.com
+  - DOMAIN-SUFFIX,identrust.com
+  - DOMAIN-SUFFIX,o33249.ingest.sentry.io
+  - DOMAIN-SUFFIX,datadoghq.com
+  - DOMAIN-SUFFIX,statsig.com
+  - DOMAIN-SUFFIX,livekit.cloud
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-KEYWORD,chatgpt
+  - DOMAIN-KEYWORD,openai

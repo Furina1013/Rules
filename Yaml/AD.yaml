@@ -1,8 +1,8 @@
 # AdBlock Rules
-# Last updated: 14 Mar 2025 02:51:00
+# Last updated: 14 Mar 2025 21:42:25
 # DOMAIN-KEYWORD: 15
-# DOMAIN-SUFFIX: 74
-# TOTAL: 89
+# DOMAIN-SUFFIX: 75
+# TOTAL: 90
 
 payload:
   # AD
@@ -102,6 +102,7 @@ payload:
   - DOMAIN-SUFFIX,adukwai.com
   - DOMAIN-SUFFIX,adsmind.ugdtimg.com
   - DOMAIN-SUFFIX,bat.bing.com
+  - DOMAIN-SUFFIX,downpack.baidu.com
   - DOMAIN-SUFFIX,jacobeshort.pro
   - DOMAIN-SUFFIX,jamdomn.pro
   - DOMAIN-SUFFIX,jamestop.xyz

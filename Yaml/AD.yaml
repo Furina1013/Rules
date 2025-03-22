@@ -1,8 +1,8 @@
-# AdBlock Rules
-# Last updated: 15 Mar 2025 23:12:00
+# AD Block Rules
+# Last updated: 22 Mar 2025 18:18:18
 # DOMAIN-KEYWORD: 15
-# DOMAIN-SUFFIX: 75
-# TOTAL: 90
+# DOMAIN-SUFFIX: 74
+# TOTAL: 89
 
 payload:
   # AD
@@ -106,7 +106,6 @@ payload:
   - DOMAIN-SUFFIX,jacobeshort.pro
   - DOMAIN-SUFFIX,jamdomn.pro
   - DOMAIN-SUFFIX,jamestop.xyz
-  - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,juwinmedia.com
   - DOMAIN-SUFFIX,uncyane.com
   - DOMAIN-SUFFIX,seeyoufarm.com

@@ -1,0 +1,8 @@
+# DIRECT Rules
+# Last updated: 25 Mar 2025 00:15:00
+# DOMAIN-SUFFIX: 1
+# TOTAL: 1
+
+payload:
+  # OpenAI
+  - DOMAIN-SUFFIX,status.openai.com

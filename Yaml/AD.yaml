@@ -1,18 +1,20 @@
 # AD Block Rules
-# Last updated: 22 Mar 2025 18:18:18
-# DOMAIN-KEYWORD: 15
-# DOMAIN-SUFFIX: 74
-# TOTAL: 89
+# Last updated: 31 Mar 2025 01:40:30
+# DOMAIN-KEYWORD: 19
+# DOMAIN-SUFFIX: 108
+# TOTAL: 127
 
 payload:
   # AD
-  - DOMAIN-KEYWORD,adserv
+  - DOMAIN-KEYWORD,adser
+  - DOMAIN-KEYWORD,adsser
   - DOMAIN-KEYWORD,promo
 
 
 
   # Track
   - DOMAIN-KEYWORD,analytics
+  - DOMAIN-KEYWORD,analyticals
   - DOMAIN-KEYWORD,track
   - DOMAIN-KEYWORD,tracking
 
@@ -21,8 +23,17 @@ payload:
   # Google
   - DOMAIN-KEYWORD,adtrafficquality
   - DOMAIN-KEYWORD,doubleclick
+  - DOMAIN-KEYWORD,googleads
+  - DOMAIN-KEYWORD,googlevads
   - DOMAIN-KEYWORD,googletagmanager
-  - DOMAIN-KEYWORD,googlesyndication
+  - DOMAIN-KEYWORD,google-ads
+  - DOMAIN-SUFFIX,ad-creatives-public.commondatastorage.googleapis.com
+  - DOMAIN-SUFFIX,androidtvchannels-pa.googleapis.com
+  - DOMAIN-SUFFIX,androidtvwatsonfe-pa.googleapis.com
+  - DOMAIN-SUFFIX,clouderrorreporting.googleapis.com
+  - DOMAIN-SUFFIX,fcmatch.google.com
+  - DOMAIN-SUFFIX,fcmatch.youtube.com
+  - DOMAIN-SUFFIX,ogads-pa.googleapis.com
   - DOMAIN-SUFFIX,gvt2.com
   - DOMAIN-SUFFIX,gvt3.com
   - DOMAIN-SUFFIX,admeld.com
@@ -38,6 +49,8 @@ payload:
   - DOMAIN-SUFFIX,adwords.com
   - DOMAIN-SUFFIX,adwordsexpress.com
   - DOMAIN-SUFFIX,firebaselogging.googleapis.com
+  - DOMAIN-SUFFIX,googlesyndication.com
+  - DOMAIN-SUFFIX,trakksocial.googlecode.com
 
 
 
@@ -95,6 +108,9 @@ payload:
 
 
   # Other
+  - DOMAIN-SUFFIX,a8.xn--google-873exa8m6161dbbyb.net
+  - DOMAIN-SUFFIX,adtrafficquality.google
+  - DOMAIN-SUFFIX,attributiontrackingga.googlecode.com
   - DOMAIN-SUFFIX,api.miwifi.com
   - DOMAIN-SUFFIX,ads-api.x.com
   - DOMAIN-SUFFIX,ads-api.twitter.com
@@ -103,11 +119,33 @@ payload:
   - DOMAIN-SUFFIX,adsmind.ugdtimg.com
   - DOMAIN-SUFFIX,bat.bing.com
   - DOMAIN-SUFFIX,downpack.baidu.com
+  - DOMAIN-SUFFIX,google.trk.oeremil.com
+  - DOMAIN-SUFFIX,google.les-surmatelas.fr
+  - DOMAIN-SUFFIX,googleapi.club
+  - DOMAIN-SUFFIX,googles.video
+  - DOMAIN-SUFFIX,googlehm.cc
+  - DOMAIN-SUFFIX,googlerank.info
+  - DOMAIN-SUFFIX,googleailesi.com
+  - DOMAIN-SUFFIX,google-js-01.xyz
+  - DOMAIN-SUFFIX,google-js-02.xyz
+  - DOMAIN-SUFFIX,google-js-08.xyz
+  - DOMAIN-SUFFIX,google-js-09.xyz
+  - DOMAIN-SUFFIX,google-pagerank.net
+  - DOMAIN-SUFFIX,googleoptimize-cn.com
+  - DOMAIN-SUFFIX,googleshopping.sapoapps.vn
+  - DOMAIN-SUFFIX,google-shopping.sapoapps.vn
+  - DOMAIN-SUFFIX,google-shopping-v2.sapoapps.vn
   - DOMAIN-SUFFIX,jacobeshort.pro
   - DOMAIN-SUFFIX,jamdomn.pro
   - DOMAIN-SUFFIX,jamestop.xyz
   - DOMAIN-SUFFIX,juwinmedia.com
+  - DOMAIN-SUFFIX,kmmgoogle.oss-ap-southeast-1.aliyuncs.com
+  - DOMAIN-SUFFIX,partnerad.l.google.com
+  - DOMAIN-SUFFIX,playgooglevn.vip
+  - DOMAIN-SUFFIX,play.appgoogle.cc
+  - DOMAIN-SUFFIX,pornogoogle.info
   - DOMAIN-SUFFIX,uncyane.com
+  - DOMAIN-SUFFIX,s1.dugoogle.com
   - DOMAIN-SUFFIX,seeyoufarm.com
   - DOMAIN-SUFFIX,undedfracted.club
   - DOMAIN-SUFFIX,upload.check.place

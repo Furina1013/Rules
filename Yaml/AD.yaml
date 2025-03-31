@@ -1,8 +1,8 @@
 # AD Block Rules
-# Last updated: 31 Mar 2025 01:40:30
+# Last updated: 1 Apr 2025 02:34:25
 # DOMAIN-KEYWORD: 19
-# DOMAIN-SUFFIX: 108
-# TOTAL: 127
+# DOMAIN-SUFFIX: 109
+# TOTAL: 128
 
 payload:
   # AD
@@ -72,6 +72,7 @@ payload:
 
   # ZIJIE
   - DOMAIN-KEYWORD,minigame5-normal-hl
+  - DOMAIN-SUFFIX,zijieapi.com
   - DOMAIN-SUFFIX,applog.zijieapi.com
   - DOMAIN-SUFFIX,feedback-c.zijieapi.com
   - DOMAIN-SUFFIX,mcs.zijieapi.com

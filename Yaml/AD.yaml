@@ -1,8 +1,8 @@
 # AD Block Rules
-# Last updated: 1 Apr 2025 02:34:25
+# Last updated: 1 Apr 2025 18:36:25
 # DOMAIN-KEYWORD: 19
-# DOMAIN-SUFFIX: 109
-# TOTAL: 128
+# DOMAIN-SUFFIX: 125
+# TOTAL: 144
 
 payload:
   # AD
@@ -71,7 +71,12 @@ payload:
 
 
   # ZIJIE
+  - DOMAIN-KEYWORD,dsp-toutiao
   - DOMAIN-KEYWORD,minigame5-normal-hl
+  - DOMAIN-KEYWORD,sdk-toutiao
+  - DOMAIN-KEYWORD,panplayable-toutiao
+  - DOMAIN-KEYWORD,pglstatp-toutiao
+  - DOMAIN-KEYWORD,panplayable-toutiao
   - DOMAIN-SUFFIX,zijieapi.com
   - DOMAIN-SUFFIX,applog.zijieapi.com
   - DOMAIN-SUFFIX,feedback-c.zijieapi.com
@@ -81,13 +86,21 @@ payload:
   - DOMAIN-SUFFIX,tnc3-alisc1.zijieapi.com
   - DOMAIN-SUFFIX,tnc3-alisc2.zijieapi.com
   - DOMAIN-SUFFIX,tnc3-bjlgy.zijieapi.com
+  - DOMAIN-SUFFIX,pangolin.snssdk.com
+  - DOMAIN-SUFFIX,pangolin-lq.snssdk.com
+  - DOMAIN-SUFFIX,pangolin-hl.snssdk.com
+  - DOMAIN-SUFFIX,pangolin-lf.snssdk.com
+  - DOMAIN-SUFFIX,tnc3-bjlgy.snssdk.com
+  - DOMAIN-SUFFIX,tnc3-alisc1.snssdk.com
+  - DOMAIN-SUFFIX,tnc3-aliec2.snssdk.com
+  - DOMAIN-SUFFIX,tnc11-bjlgy.snssdk.com
+  - DOMAIN-SUFFIX,tnc11-alisc1.snssdk.com
+  - DOMAIN-SUFFIX,tnc11-aliec2.snssdk.com
+  - DOMAIN-SUFFIX,tnc100-bjlgy.snssdk.com
+  - DOMAIN-SUFFIX,tnc100-alisc1.snssdk.com
+  - DOMAIN-SUFFIX,tnc100-aliec2.snssdk.com
   - DOMAIN-SUFFIX,vcs.zijieapi.com
   - DOMAIN-SUFFIX,view.zijieapi.com
-  - DOMAIN-KEYWORD,dsp-toutiao
-  - DOMAIN-KEYWORD,sdk-toutiao
-  - DOMAIN-KEYWORD,panplayable-toutiao
-  - DOMAIN-KEYWORD,pglstatp-toutiao
-  - DOMAIN-KEYWORD,panplayable-toutiao
 
 
 
@@ -119,6 +132,7 @@ payload:
   - DOMAIN-SUFFIX,adukwai.com
   - DOMAIN-SUFFIX,adsmind.ugdtimg.com
   - DOMAIN-SUFFIX,bat.bing.com
+  - DOMAIN-SUFFIX,dc.sigmob.cn
   - DOMAIN-SUFFIX,downpack.baidu.com
   - DOMAIN-SUFFIX,google.trk.oeremil.com
   - DOMAIN-SUFFIX,google.les-surmatelas.fr
@@ -141,6 +155,8 @@ payload:
   - DOMAIN-SUFFIX,jamestop.xyz
   - DOMAIN-SUFFIX,juwinmedia.com
   - DOMAIN-SUFFIX,kmmgoogle.oss-ap-southeast-1.aliyuncs.com
+  - DOMAIN-SUFFIX,open.e.kuaishou.com
+  - DOMAIN-SUFFIX,open.e.kuaishou.cn
   - DOMAIN-SUFFIX,partnerad.l.google.com
   - DOMAIN-SUFFIX,playgooglevn.vip
   - DOMAIN-SUFFIX,play.appgoogle.cc

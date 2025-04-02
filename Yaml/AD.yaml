@@ -1,8 +1,8 @@
 # Ad Block Rules
-# Last updated: 1 Apr 2025 18:36:25
+# Last updated: 2 Apr 2025 17:59:17
 # DOMAIN-KEYWORD: 19
-# DOMAIN-SUFFIX: 125
-# TOTAL: 144
+# DOMAIN-SUFFIX: 126
+# TOTAL: 145
 
 payload:
   # AD
@@ -163,6 +163,7 @@ payload:
   - DOMAIN-SUFFIX,pornogoogle.info
   - DOMAIN-SUFFIX,uncyane.com
   - DOMAIN-SUFFIX,s1.dugoogle.com
+  - DOMAIN-SUFFIX,sdk.e.qq.com
   - DOMAIN-SUFFIX,seeyoufarm.com
   - DOMAIN-SUFFIX,undedfracted.club
   - DOMAIN-SUFFIX,upload.check.place

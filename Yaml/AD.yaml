@@ -1,8 +1,8 @@
 # Ad Block Rules
-# Last updated: 19 Apr 2025 16:35:26
+# Last updated: 19 Apr 2025 16:55:00
 # DOMAIN-KEYWORD: 19
-# DOMAIN-SUFFIX: 127
-# TOTAL: 146
+# DOMAIN-SUFFIX: 128
+# TOTAL: 147
 
 payload:
   # AD
@@ -91,6 +91,7 @@ payload:
   - DOMAIN-SUFFIX,tnc3-alisc1.zijieapi.com
   - DOMAIN-SUFFIX,tnc3-alisc2.zijieapi.com
   - DOMAIN-SUFFIX,tnc3-bjlgy.zijieapi.com
+  - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,pangolin.snssdk.com
   - DOMAIN-SUFFIX,pangolin-lq.snssdk.com
   - DOMAIN-SUFFIX,pangolin-hl.snssdk.com

@@ -1,8 +1,8 @@
 # Ad Block Rules
-# Last updated: 2 Apr 2025 17:59:17
+# Last updated: 19 Apr 2025 16:35:26
 # DOMAIN-KEYWORD: 19
-# DOMAIN-SUFFIX: 126
-# TOTAL: 145
+# DOMAIN-SUFFIX: 127
+# TOTAL: 146
 
 payload:
   # AD
@@ -17,6 +17,11 @@ payload:
   - DOMAIN-KEYWORD,analyticals
   - DOMAIN-KEYWORD,track
   - DOMAIN-KEYWORD,tracking
+
+
+
+  # Cookies
+  - DOMAIN-SUFFIX,fundingchoicesmessages.google.com
 
 
 

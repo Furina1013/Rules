@@ -1,8 +1,8 @@
 # Ad Block Rules
-# Last updated: 22 Apr 2025 23:59:30
+# Last updated: 23 Apr 2025 00:13:45
 # DOMAIN-KEYWORD: 20
-# DOMAIN-SUFFIX: 128
-# TOTAL: 148
+# DOMAIN-SUFFIX: 129
+# TOTAL: 149
 
 payload:
   # AD
@@ -86,6 +86,7 @@ payload:
   - DOMAIN-SUFFIX,zijieapi.com
   - DOMAIN-SUFFIX,applog.zijieapi.com
   - DOMAIN-SUFFIX,ctobsnssdk.com
+  - DOAMIN-SUFFIX.e.qq.com
   - DOMAIN-SUFFIX,feedback-c.zijieapi.com
   - DOMAIN-SUFFIX,mcs.zijieapi.com
   - DOMAIN-SUFFIX,mon.zijieapi.com

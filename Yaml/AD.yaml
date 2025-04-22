@@ -142,7 +142,7 @@ payload:
   - DOMAIN-SUFFIX,bat.bing.com
   - DOMAIN-SUFFIX,dc.sigmob.cn
   - DOMAIN-SUFFIX,downpack.baidu.com
-  - DOAMIN-SUFFIX.e.qq.com
+  - DOMAIN-SUFFIX,e.qq.com
   - DOMAIN-SUFFIX,google.trk.oeremil.com
   - DOMAIN-SUFFIX,google.les-surmatelas.fr
   - DOMAIN-SUFFIX,googleapi.club

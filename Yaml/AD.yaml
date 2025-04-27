@@ -1,8 +1,8 @@
 # Ad Block Rules
-# Last updated: 23 Apr 2025 00:15:17
+# Last updated: 27 Apr 2025 13:16:00
 # DOMAIN-KEYWORD: 20
-# DOMAIN-SUFFIX: 129
-# TOTAL: 149
+# DOMAIN-SUFFIX: 130
+# TOTAL: 150
 
 payload:
   # AD
@@ -139,10 +139,11 @@ payload:
   - DOMAIN-SUFFIX,adkwai.com
   - DOMAIN-SUFFIX,adukwai.com
   - DOMAIN-SUFFIX,adsmind.ugdtimg.com
+  - DOMAIN-SUFFIX,afd.baidu.com
   - DOMAIN-SUFFIX,bat.bing.com
   - DOMAIN-SUFFIX,dc.sigmob.cn
-  - DOMAIN-SUFFIX,downpack.baidu.com
   - DOMAIN-SUFFIX,e.qq.com
+  - DOMAIN-SUFFIX,feed-image.baidu.com
   - DOMAIN-SUFFIX,google.trk.oeremil.com
   - DOMAIN-SUFFIX,google.les-surmatelas.fr
   - DOMAIN-SUFFIX,googleapi.club

@@ -1,8 +1,9 @@
 # AI services, continuously maintained and expanded
-# Last updated: 25 Mar 2025 19:56:07
+# Last updated: 27 Apr 2025 13:35:00
+# DOMAIN: 1
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 10
-# TOTAL: 12
+# DOMAIN-SUFFIX: 12
+# TOTAL: 15
 
 payload:
   # OPENAI 
@@ -18,3 +19,8 @@ payload:
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-KEYWORD,chatgpt
   - DOMAIN-KEYWORD,openai
+
+  # Claude
+  - DOMAIN,cdn.usefathom.com
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai

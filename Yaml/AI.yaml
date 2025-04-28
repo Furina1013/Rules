@@ -1,9 +1,9 @@
 # AI services, continuously maintained and expanded
-# Last updated: 27 Apr 2025 13:35:00
+# Last updated: 28 Apr 2025 10:25:51
 # DOMAIN: 1
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 12
-# TOTAL: 15
+# DOMAIN-SUFFIX: 13
+# TOTAL: 16
 
 payload:
   # OPENAI 
@@ -24,3 +24,6 @@ payload:
   - DOMAIN,cdn.usefathom.com
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
+
+  # Microsoft
+  - DOAMIN-SUFFIX,copilot.microsoft.com

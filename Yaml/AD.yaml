@@ -1,8 +1,8 @@
 # Ad Block Rules
-# Last updated: 1 May 2025 17:35:57
+# Last updated: 8 Mar 2025 17:53:00
 # DOMAIN-KEYWORD: 20
-# DOMAIN-SUFFIX: 128
-# TOTAL: 148
+# DOMAIN-SUFFIX: 133
+# TOTAL: 153
 
 payload:
   # AD
@@ -57,16 +57,21 @@ payload:
   # HoYoverse
   - DOMAIN-SUFFIX,ad-log-upload-os.hoyoverse.com
   - DOMAIN-SUFFIX,apm-log-upload-os.hoyoverse.com
+  - DOMAIN-SUFFIX,devlog-upload-os.hoyoverse.com
   - DOMAIN-SUFFIX,hkrpg-log-upload-os.hoyoverse.com
   - DOMAIN-SUFFIX,hkrpg-log-upload.mihoyo.com
   - DOMAIN-SUFFIX,log-upload-os.hoyolab.com
   - DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
   - DOMAIN-SUFFIX,log-upload.mihoyo.com
+  - DOMAIN-SUFFIX,log-upload-eur.mihoyo.com
+  - DOMAIN-SUFFIX,log-upload-os.mihoyo.com
   - DOMAIN-SUFFIX,log-upload-v6.mihoyo.com
-  - DOMAIN-SUFFIX,sdk-log-upload-os.hoyoverse.com
-  - DOMAIN-SUFFIX,ys-log-upload-os.hoyoverse.com
+  - DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
   - DOMAIN-SUFFIX,overseauspider.yuanshen.com
+  - DOMAIN-SUFFIX,sdk-log-upload-os.hoyoverse.com
   - DOMAIN-SUFFIX,sentry.eks.hoyoverse.com
+  - DOMAIN-SUFFIX,sg-public-data-api.hoyoverse.com
+  - DOMAIN-SUFFIX,ys-log-upload-os.hoyoverse.com
 
 
 

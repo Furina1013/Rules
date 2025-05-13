@@ -1,24 +1,30 @@
 # AI services, continuously maintained and expanded
-# Last updated: 28 Apr 2025 10:25:51
+# Last updated: 14 May 2025 02:20:17
 # DOMAIN: 1
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 13
-# TOTAL: 16
+# DOMAIN-SUFFIX: 16
+# IP-ASN: 1
+# TOTAL: 20
 
 payload:
-  # OPENAI 
-  - DOMAIN-SUFFIX,cdn.oaistatic.com
+  # OPENAI
+  - DOMAIN-SUFFIX,browser-intake-datadoghq.com
   - DOMAIN-SUFFIX,cdn.auth0.com
   - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,identrust.com
-  - DOMAIN-SUFFIX,o33249.ingest.sentry.io
-  - DOMAIN-SUFFIX,datadoghq.com
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,segment.io
   - DOMAIN-SUFFIX,statsig.com
-  - DOMAIN-SUFFIX,livekit.cloud
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,chatgpt.livekit.cloud
+  - DOMAIN-SUFFIX,host.livekit.cloud
+  - DOMAIN-SUFFIX,turn.livekit.cloud
+  - DOMAIN-SUFFIX,segment.io
   - DOMAIN-KEYWORD,chatgpt
   - DOMAIN-KEYWORD,openai
+  - IP-ASN,14061,no-resolve
 
   # Claude
   - DOMAIN,cdn.usefathom.com

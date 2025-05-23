@@ -1,7 +1,8 @@
 # Ad Block Rules
-# Last updated: 23 May 2025 18:55:00
+# Last updated: 23 May 2025 21:49:20
 # DOMAIN-KEYWORD: 18
 # DOMAIN-SUFFIX: 135
+# SKIP: 2
 # TOTAL: 153
 
 payload:
@@ -80,8 +81,8 @@ payload:
   - DOMAIN-KEYWORD,panplayable-toutiao
   - DOMAIN-KEYWORD,pglstatp-toutiao
   - DOMAIN-KEYWORD,panplayable-toutiao
-  - DOMAIN-KEYWORD,snssdk
-  - DOMAIN-SUFFIX,zijieapi.com
+#  - DOMAIN-KEYWORD,snssdk
+#  - DOMAIN-SUFFIX,zijieapi.com
   - DOMAIN-SUFFIX,applog.zijieapi.com
   - DOMAIN-SUFFIX,ctobsnssdk.com
   - DOMAIN-SUFFIX,feedback-c.zijieapi.com

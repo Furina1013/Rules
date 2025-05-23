@@ -1,8 +1,8 @@
 # Ad Block Rules
-# Last updated: 22 May 2025 03:30:10
+# Last updated: 23 May 2025 18:53:00
 # DOMAIN-KEYWORD: 19
-# DOMAIN-SUFFIX: 133
-# TOTAL: 152
+# DOMAIN-SUFFIX: 135
+# TOTAL: 154
 
 payload:
   # AD
@@ -132,6 +132,7 @@ payload:
   - DOMAIN-SUFFIX,a8.xn--google-873exa8m6161dbbyb.net
   - DOMAIN-SUFFIX,adtrafficquality.google
   - DOMAIN-SUFFIX,attributiontrackingga.googlecode.com
+  - DOMAIN-SUFFIX,ads-pixiv.net
   - DOMAIN-SUFFIX,api.miwifi.com
   - DOMAIN-SUFFIX,ads-api.x.com
   - DOMAIN-SUFFIX,ads-api.twitter.com
@@ -142,6 +143,7 @@ payload:
   - DOMAIN-SUFFIX,bat.bing.com
   - DOMAIN-SUFFIX,dc.sigmob.cn
   - DOMAIN-SUFFIX,e.qq.com
+  - DOMAIN-SUFFIX,imp.pixiv.net
   - DOMAIN-SUFFIX,feed-image.baidu.com
   - DOMAIN-SUFFIX,google.trk.oeremil.com
   - DOMAIN-SUFFIX,google.les-surmatelas.fr

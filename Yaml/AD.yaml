@@ -1,12 +1,11 @@
 # Ad Block Rules
-# Last updated: 23 May 2025 18:53:00
-# DOMAIN-KEYWORD: 19
+# Last updated: 23 May 2025 18:55:00
+# DOMAIN-KEYWORD: 18
 # DOMAIN-SUFFIX: 135
-# TOTAL: 154
+# TOTAL: 153
 
 payload:
   # AD
-  - DOMAIN-KEYWORD,ads-
   - DOMAIN-KEYWORD,adser
   - DOMAIN-KEYWORD,adsser
 

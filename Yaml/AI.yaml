@@ -1,5 +1,5 @@
 # AI services, continuously maintained and expanded
-# Last updated: 14 May 2025 02:20:17
+# Last updated: 14 Jul 2025 07:49:00
 # DOMAIN: 1
 # DOMAIN-KEYWORD: 2
 # DOMAIN-SUFFIX: 16
@@ -32,4 +32,4 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
 
   # Microsoft
-  - DOAMIN-SUFFIX,copilot.microsoft.com
+  - DOMAIN-SUFFIX,copilot.microsoft.com

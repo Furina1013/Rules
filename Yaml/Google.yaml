@@ -1,11 +1,11 @@
 # Google Services
-# Last updated: 12 Mar 2025 03:14:30
+# Last updated: 10 Aug 2025 08:26:27
 # DOMAIN: 1
 # DOMAIN-KEYWORD: 7
-# DOMAIN-SUFFIX: 349
+# DOMAIN-SUFFIX: 350
 # IP-ASN: 37
 # PROCESS-NAME: 2
-# TOTAL: 396
+# TOTAL: 397
 
 payload:
   # Google
@@ -17,6 +17,7 @@ payload:
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,recaptcha
   - DOMAIN-KEYWORD,blogspot
+  - DOMAIN-SUFFIX,c.gle
   - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-SUFFIX,translate.goog
   - DOMAIN-SUFFIX,0emm.com
@@ -405,3 +406,4 @@ payload:
   - IP-ASN,394639,no-resolve
   - IP-ASN,394507,no-resolve
   - IP-ASN,394089,no-resolve
+
